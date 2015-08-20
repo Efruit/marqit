@@ -1,3 +1,5 @@
+// Package bank defines the interface and data types for Bank transactions
+
 //go:generate stringer -type "AccountID,Error"
 package bank
 

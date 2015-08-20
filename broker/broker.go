@@ -1,3 +1,4 @@
+// Package broker used to do something. That something is no longer done.
 package broker
 
 import (

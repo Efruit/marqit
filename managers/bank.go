@@ -1,3 +1,4 @@
+// Package manager defines the interfaces for managing Banks, Tickers, Markets, etc.
 package manager
 
 import (

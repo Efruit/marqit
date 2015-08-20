@@ -1,3 +1,4 @@
+// Package trader defines the interfaces that models must implement to trade in a full capacity.
 package trader
 
 import (

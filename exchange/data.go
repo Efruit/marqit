@@ -1,3 +1,5 @@
+// Package exchange defines the interfaces and data structures that cross subpackage boundaries.
+
 //go:generate stringer -type "Status,Mode,Action,SumLen,TradeStatus"
 package exchange
 

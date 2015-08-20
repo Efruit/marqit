@@ -1,3 +1,4 @@
+// Package ticker defines the interface for ticker-like information streams
 package ticker
 
 import (
