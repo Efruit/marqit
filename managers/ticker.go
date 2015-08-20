@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"../ticker"
+	"github.com/Efruit/marqit/ticker"
 )
 
 type Ticker interface {

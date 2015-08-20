@@ -1,10 +1,10 @@
 package netplayer
 
 import (
-	".."
-	"../../bank"
-	xchg "../../exchange"
-	"../../managers"
+	"github.com/Efruit/marqit/bank"
+	xchg "github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/managers"
+	"github.com/Efruit/marqit/trader"
 	"github.com/inconshreveable/log15"
 )
 

@@ -1,8 +1,8 @@
 package broker
 
 import (
-	"../exchange"
-	"../trader"
+	"github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/trader"
 )
 
 type Broker interface {

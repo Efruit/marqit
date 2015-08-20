@@ -1,8 +1,8 @@
 package v1
 
 import (
-	bank ".."
-	"../../exchange"
+	"github.com/Efruit/marqit/bank"
+	"github.com/Efruit/marqit/exchange"
 	"github.com/inconshreveable/log15"
 	"math/rand"
 	"sync"

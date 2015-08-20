@@ -1,8 +1,8 @@
 package market
 
 import (
-	"../exchange"
-	"../managers"
+	"github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/managers"
 	"github.com/nu7hatch/gouuid"
 	"time"
 )

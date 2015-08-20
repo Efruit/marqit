@@ -1,13 +1,13 @@
 package main
 
 import (
-	"./bank"
-	bank1 "./bank/v1"
-	"./broker/irrational"
-	"./exchange"
-	"./managers"
-	market1 "./market/v1"
-	"./trader/netplayer"
+	"github.com/Efruit/marqit/bank"
+	bank1 "github.com/Efruit/marqit/bank/v1"
+	"github.com/Efruit/marqit/broker/irrational"
+	"github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/managers"
+	market1 "github.com/Efruit/marqit/market/v1"
+	"github.com/Efruit/marqit/trader/netplayer"
 	// "code.google.com/p/gocircuit/src/circuit/kit/debug"
 	"github.com/inconshreveable/log15"
 	"math/rand"

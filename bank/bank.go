@@ -2,7 +2,7 @@
 package bank
 
 import (
-	"../exchange"
+	"github.com/Efruit/marqit/exchange"
 	"math"
 )
 

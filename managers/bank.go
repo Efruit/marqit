@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"../bank"
+	"github.com/Efruit/marqit/bank"
 )
 
 type Bank interface {

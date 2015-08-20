@@ -1,9 +1,9 @@
 package manager
 
 import (
-	"../broker"
-	"../exchange"
-	"../trader"
+	"github.com/Efruit/marqit/broker"
+	"github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/trader"
 	"github.com/nu7hatch/gouuid"
 )
 

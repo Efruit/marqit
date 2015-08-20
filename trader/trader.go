@@ -1,8 +1,8 @@
 package trader
 
 import (
-	"../bank"
-	xchg "../exchange"
+	"github.com/Efruit/marqit/bank"
+	xchg "github.com/Efruit/marqit/exchange"
 )
 
 //var Traders = make(map[LicenseID]Trader)

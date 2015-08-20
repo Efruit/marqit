@@ -1,13 +1,13 @@
 package v1
 
 import (
-	market ".."
-	"../../bank"
-	"../../broker"
-	x "../../exchange"
-	"../../managers"
-	"../../ticker"
-	"../../trader"
+	"github.com/Efruit/marqit/bank"
+	"github.com/Efruit/marqit/broker"
+	x "github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/managers"
+	"github.com/Efruit/marqit/market"
+	"github.com/Efruit/marqit/ticker"
+	"github.com/Efruit/marqit/trader"
 	"github.com/inconshreveable/log15"
 	"github.com/nu7hatch/gouuid"
 	"gopkg.in/validator.v2"

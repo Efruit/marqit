@@ -1,11 +1,11 @@
 package irrational
 
 import (
-	"../../bank"
-	xchg "../../exchange"
-	"../../managers"
-	"../../ticker"
-	"../../trader"
+	"github.com/Efruit/marqit/bank"
+	xchg "github.com/Efruit/marqit/exchange"
+	"github.com/Efruit/marqit/managers"
+	"github.com/Efruit/marqit/ticker"
+	"github.com/Efruit/marqit/trader"
 	"github.com/inconshreveable/log15"
 	"github.com/oleiade/lane"
 	"math/rand"
